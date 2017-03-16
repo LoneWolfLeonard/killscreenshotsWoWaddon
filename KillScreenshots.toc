@@ -1,0 +1,8 @@
+## Interface: 70100
+## Title: KillScreenshots
+## Version: 1.2
+## Author: Leonard Treman
+
+
+Frame.xml
+Frame.lua
