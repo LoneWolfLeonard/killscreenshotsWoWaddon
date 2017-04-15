@@ -1,6 +1,7 @@
-## Interface: 70100
+## Interface: 70200
+## X-Min-Interface: 70200
 ## Title: KillScreenshots
-## Version: 1.2
+## Version: 1.3
 ## Author: Leonard Treman
 
 
